@@ -1,0 +1,1 @@
+No final do script ecommerceInsert está alguns usos de ferramentas mais avançadas.
